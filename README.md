@@ -1,2 +1,2 @@
 # epubjs_viewer
-A viewer base on EpubJs
+A EpubJS based Viewer
